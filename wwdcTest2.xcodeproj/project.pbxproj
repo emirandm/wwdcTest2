@@ -423,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6TJS59CFG7;
 				INFOPLIST_FILE = wwdcTest2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.miranda.wwdcTest2;
@@ -436,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6TJS59CFG7;
 				INFOPLIST_FILE = wwdcTest2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.miranda.wwdcTest2;
@@ -522,6 +524,7 @@
 				A20473281EE76431000BB3EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A20473291EE76431000BB3EF /* Build configuration list for PBXNativeTarget "wwdcTest2Tests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +533,7 @@
 				A204732B1EE76431000BB3EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A204732C1EE76431000BB3EF /* Build configuration list for PBXNativeTarget "wwdcTest2UITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +542,7 @@
 				A204732E1EE76431000BB3EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
